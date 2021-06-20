@@ -37,3 +37,10 @@ Source code distributed with new BSD and MIT licenses, more information in the f
 ## Graphics and sound
 The icon is based on an icon by Dmitry Baranovskiy (http://raphaeljs.com/icons/), which was distributed under the MIT license, the modified version will continue to carry the same license.
 Super awesome noise file generated with Audacity by Lietu (http://lietu.net/), distributed with WTFPL v2 license (http://sam.zoy.org/wtfpl/). The license is also in the file LICENSE under the sound directory.
+
+
+# Financial support
+
+This project has been made possible thanks to [Cocreators](https://cocreators.ee) and [Lietu](https://lietu.net). You can help us continue our open source work by supporting us on [Buy me a coffee](https://www.buymeacoffee.com/cocreators).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cocreators)
